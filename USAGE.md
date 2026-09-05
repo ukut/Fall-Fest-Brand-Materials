@@ -22,7 +22,7 @@ These assets (logos, banners, color palettes, templates, and other graphics) wer
 - Access will be reviewed/removed once the site is live
 
 ## Questions
-If you're unsure whether a use is okay, ask **[Your Name]** before proceeding — better to check than to have to redo work.
+If you're unsure whether a use is okay, ask **Ini Ukut** before proceeding — better to check than to have to redo work.
 
 ---
 *Source: Official Qiskit Fall Fest 2026 materials, provided via GitHub for QNigeria's participation.*
